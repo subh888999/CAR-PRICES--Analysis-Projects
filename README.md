@@ -8,12 +8,14 @@ Exploratory data analysis (EDA) to discover trends and patterns
 Feature selection to identify important variables affecting car prices
 Price prediction model using regression techniques
 Visualizations for price distribution, feature relationships, and outliers
+
 Technologies Used
 Python
 Pandas
-Matplotlib & Seaborn (for data visualization)
-Scikit-learn (for machine learning models)
+numpy
+Matplotlib , Seaborn & plotly(for data visualization)
 Jupyter Notebooks (for interactive analysis)
+
 Dataset
 The dataset used in this project contains information about car listings including attributes such as:
 
