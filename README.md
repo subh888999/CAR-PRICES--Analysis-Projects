@@ -1,6 +1,6 @@
 # CAR PRICES -Analysis-Projects
 Overview--
-This project analyzes car prices based on various features such as make, model, year, mileage, location, and other relevant factors. The goal is to understand the key drivers of car prices and provide insights into how different features impact pricing. The analysis is done using machine learning models and data visualization techniques.
+This project analyzes car prices based on various features such as make, model, year, mileage, price, and other relevant factors. The goal is to understand the key drivers of car prices and provide insights into how different features impact pricing. The analysis is done using machine learning models and data visualization techniques.
 
 Features--
 Data cleaning and preprocessing
@@ -19,9 +19,13 @@ Jupyter Notebooks (for interactive analysis)
 Dataset--
 The dataset used in this project contains information about car listings including attributes such as:-
 
-Make
-Model
-Year
-Mileage
-Location
-Price
+Make,
+Model,
+Year,
+Fuel type,
+Horse power,
+Cylinders,
+Transmission type,
+Highway mpg,
+price & many more
+
