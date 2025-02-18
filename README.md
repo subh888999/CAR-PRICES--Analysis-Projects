@@ -1,4 +1,4 @@
-# Car Price Analysis and Prediction
+# Car Prices Analysis and Prediction
 
 ## Overview
 This project analyzes car prices using features like make, model, year, mileage, horsepower, and more. The goal is to understand key drivers of car prices and predict pricing using machine learning and data visualization.
